@@ -15,7 +15,10 @@ CMakeFiles/program.dir/src/main.c.obj: \
  /usr/arm-none-eabi/include/machine/_types.h \
  /usr/arm-none-eabi/include/sys/lock.h \
  /usr/arm-none-eabi/include/machine/stdlib.h \
- /usr/arm-none-eabi/include/alloca.h \
+ /usr/arm-none-eabi/include/alloca.h /usr/arm-none-eabi/include/string.h \
+ /usr/arm-none-eabi/include/sys/_locale.h \
+ /usr/arm-none-eabi/include/strings.h \
+ /usr/arm-none-eabi/include/sys/string.h \
  /home/hilal/Development/RP-PICO/outputs/pico-sdk/src/common/pico_stdlib_headers/include/pico/stdlib.h \
  /home/hilal/Development/RP-PICO/outputs/pico-sdk/src/common/pico_base_headers/include/pico.h \
  /home/hilal/Development/RP-PICO/outputs/pico-sdk/src/common/pico_base_headers/include/pico/types.h \
