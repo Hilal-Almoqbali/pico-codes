@@ -1,0 +1,5 @@
+/home/hilal/Development/RP-PICO/outputs/build/_deps/picotool/picotool
+/home/hilal/Development/RP-PICO/outputs/build/_deps/picotool/picotoolTargets.cmake
+/home/hilal/Development/RP-PICO/outputs/build/_deps/picotool/picotoolTargets-release.cmake
+/home/hilal/Development/RP-PICO/outputs/build/_deps/picotool/picotoolConfig.cmake
+/home/hilal/Development/RP-PICO/outputs/build/_deps/picotool/picotoolConfigVersion.cmake

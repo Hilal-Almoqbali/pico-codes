@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.26)
+project(name)
+
+add_subdirectory(./path)
+
+add_executable(name ./src)
+target_link_libraries(name PUBLIC libname)
+target_include_directories(name PUBLIC ./include)
+
+
