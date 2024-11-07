@@ -2100,7 +2100,10 @@ CMakeFiles/program.dir/src/main.c.obj: /home/hilal/Development/RP-PICO/outputs/s
   /usr/arm-none-eabi/include/newlib.h \
   /usr/arm-none-eabi/include/stdint.h \
   /usr/arm-none-eabi/include/stdlib.h \
+  /usr/arm-none-eabi/include/string.h \
+  /usr/arm-none-eabi/include/strings.h \
   /usr/arm-none-eabi/include/sys/_intsup.h \
+  /usr/arm-none-eabi/include/sys/_locale.h \
   /usr/arm-none-eabi/include/sys/_stdint.h \
   /usr/arm-none-eabi/include/sys/_types.h \
   /usr/arm-none-eabi/include/sys/cdefs.h \
@@ -2108,6 +2111,7 @@ CMakeFiles/program.dir/src/main.c.obj: /home/hilal/Development/RP-PICO/outputs/s
   /usr/arm-none-eabi/include/sys/features.h \
   /usr/arm-none-eabi/include/sys/lock.h \
   /usr/arm-none-eabi/include/sys/reent.h \
+  /usr/arm-none-eabi/include/sys/string.h \
   /usr/lib/gcc/arm-none-eabi/13.2.0/include/stdarg.h \
   /usr/lib/gcc/arm-none-eabi/13.2.0/include/stdbool.h \
   /usr/lib/gcc/arm-none-eabi/13.2.0/include/stddef.h \
