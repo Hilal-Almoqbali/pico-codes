@@ -1,12 +1,11 @@
 # Hashes of file build rules.
-d30d09dc8a4fa9294dc1781678ae6a26 pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_bin
-d30d09dc8a4fa9294dc1781678ae6a26 pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_padded_checksummed_asm
-9acccc2353861da9555635201611d055 pico-sdk/src/rp2040/boot_stage2/CMakeFiles/picotoolBuild-complete
-e422cd860d346b78a0c8506e4cddc0a8 pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
-5ad3146ed546410cde5e3603f8465f0c pico-sdk/src/rp2040/boot_stage2/bs2_default_padded_checksummed.S
-d5fce5f9fff8e846cc254b6090289f91 pico-sdk/src/rp2040/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-configure
-27c37d5a269abd83740aadf51d728371 pico-sdk/src/rp2040/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-download
-5212fe4cf2d30802968d0f34543f5f2c pico-sdk/src/rp2040/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir
-b1363bd14ba6f77988b14a6319c96699 pico-sdk/src/rp2040/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-patch
-c4e240d284c7ad56a890ee594299e567 pico-sdk/src/rp2040/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-test
-4f1d35d5a5d426589e79938e2247fab7 pico-sdk/src/rp2040/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-update
+81becd9daa3c1c2951d9b7eb82179d95 CMakeFiles/picotoolBuild-complete
+9161256e10e55905b8e8be5fb6b4d7cd pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_bin
+92408f5d05b79ef44ec770f0094295f8 pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
+8e4e2c4ce9c57a023b36794e0e8c7e32 pico-sdk/src/rp2040/boot_stage2/bs2_default_padded_checksummed.S
+d8a09b7339e1d0cd4b7d78013ea9f6c0 picotool/src/picotoolBuild-stamp/picotoolBuild-configure
+0e8418e491b9038db26adb6785cb5c4d picotool/src/picotoolBuild-stamp/picotoolBuild-download
+3bd65a3d3c566ba4f6bc24eaeb5f2893 picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir
+63b0de2aea37fa893b11342ed7523ed1 picotool/src/picotoolBuild-stamp/picotoolBuild-patch
+a3225ba05457094ccffdd2461fe909b9 picotool/src/picotoolBuild-stamp/picotoolBuild-test
+245d70c0a11fcc2920b0a618cf996d61 picotool/src/picotoolBuild-stamp/picotoolBuild-update

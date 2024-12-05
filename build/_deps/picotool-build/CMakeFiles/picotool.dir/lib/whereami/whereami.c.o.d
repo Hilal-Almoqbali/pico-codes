@@ -1,13 +1,13 @@
 CMakeFiles/picotool.dir/lib/whereami/whereami.c.o: \
- /home/hilal/Development/RP-PICO/outputs/build/_deps/picotool-src/lib/whereami/whereami.c \
+ /home/hilal/Dev/pico-codes/build/_deps/picotool-src/lib/whereami/whereami.c \
  /usr/include/stdc-predef.h \
- /home/hilal/Development/RP-PICO/outputs/build/_deps/picotool-src/lib/whereami/whereami.h \
+ /home/hilal/Dev/pico-codes/build/_deps/picotool-src/lib/whereami/whereami.h \
  /usr/include/stdlib.h /usr/include/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
  /usr/include/bits/wordsize.h /usr/include/bits/timesize.h \
  /usr/include/sys/cdefs.h /usr/include/bits/long-double.h \
  /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
- /usr/lib/gcc/x86_64-redhat-linux/13/include/stddef.h \
+ /usr/lib/gcc/x86_64-redhat-linux/14/include/stddef.h \
  /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
  /usr/include/bits/floatn.h /usr/include/bits/floatn-common.h \
  /usr/include/sys/types.h /usr/include/bits/types.h \
@@ -27,15 +27,16 @@ CMakeFiles/picotool.dir/lib/whereami/whereami.c.o: \
  /usr/include/bits/struct_rwlock.h /usr/include/alloca.h \
  /usr/include/bits/stdlib-bsearch.h /usr/include/bits/stdlib-float.h \
  /usr/include/stdio.h \
- /usr/lib/gcc/x86_64-redhat-linux/13/include/stdarg.h \
+ /usr/lib/gcc/x86_64-redhat-linux/14/include/stdarg.h \
  /usr/include/bits/types/__fpos_t.h /usr/include/bits/types/__mbstate_t.h \
  /usr/include/bits/types/__fpos64_t.h /usr/include/bits/types/__FILE.h \
  /usr/include/bits/types/FILE.h /usr/include/bits/types/struct_FILE.h \
+ /usr/include/bits/types/cookie_io_functions_t.h \
  /usr/include/bits/stdio_lim.h /usr/include/bits/stdio.h \
  /usr/include/string.h /usr/include/bits/types/locale_t.h \
  /usr/include/bits/types/__locale_t.h /usr/include/strings.h \
  /usr/include/linux/limits.h /usr/include/inttypes.h \
- /usr/lib/gcc/x86_64-redhat-linux/13/include/stdint.h \
+ /usr/lib/gcc/x86_64-redhat-linux/14/include/stdint.h \
  /usr/include/stdint.h /usr/include/bits/wchar.h \
- /usr/include/bits/stdint-uintn.h \
- /usr/lib/gcc/x86_64-redhat-linux/13/include/stdbool.h
+ /usr/include/bits/stdint-uintn.h /usr/include/bits/stdint-least.h \
+ /usr/lib/gcc/x86_64-redhat-linux/14/include/stdbool.h

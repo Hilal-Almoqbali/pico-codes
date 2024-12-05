@@ -1,4 +1,4 @@
-# Install script for directory: /home/hilal/Development/RP-PICO/outputs/pico-sdk/src/rp2_common/hardware_i2c
+# Install script for directory: /home/hilal/Dev/pico-codes/pico-sdk/src/rp2_common/hardware_i2c
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -32,7 +32,7 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
   set(CMAKE_CROSSCOMPILING "TRUE")
 endif()
 
-# Set default install directory permissions.
+# Set path to fallback-tool for dependency-resolution.
 if(NOT DEFINED CMAKE_OBJDUMP)
   set(CMAKE_OBJDUMP "/usr/bin/arm-none-eabi-objdump")
 endif()

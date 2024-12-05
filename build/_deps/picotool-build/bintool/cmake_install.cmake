@@ -1,8 +1,8 @@
-# Install script for directory: /home/hilal/Development/RP-PICO/outputs/build/_deps/picotool-src/bintool
+# Install script for directory: /home/hilal/Dev/pico-codes/build/_deps/picotool-src/bintool
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/hilal/Development/RP-PICO/outputs/build/_deps")
+  set(CMAKE_INSTALL_PREFIX "/home/hilal/Dev/pico-codes/build/_deps")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -37,7 +37,7 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
   set(CMAKE_CROSSCOMPILING "FALSE")
 endif()
 
-# Set default install directory permissions.
+# Set path to fallback-tool for dependency-resolution.
 if(NOT DEFINED CMAKE_OBJDUMP)
   set(CMAKE_OBJDUMP "/usr/bin/objdump")
 endif()
